@@ -10,3 +10,5 @@ Here a **bold** word.
 Can I ~~strikethrough~~ words too?
 
 This is yet another line.
+
+This is a suggested change from Valentina. Accept at your own risk :)
